@@ -1,0 +1,9 @@
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\bin\Debug\fund_manager_app.exe.config
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\bin\Debug\fund_manager_app.exe
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\bin\Debug\fund_manager_app.pdb
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.csprojResolveAssemblyReference.cache
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.Form1.resources
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.Properties.Resources.resources
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.csproj.GenerateResource.Cache
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.exe
+C:\Users\Romualdo\Documents\Visual Studio 2015\Projects\fund_manager\code_vs14_2015\fund_manager_app\obj\Debug\fund_manager_app.pdb
